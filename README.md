@@ -1,1 +1,1 @@
-A Web-Based HTML Assignment, Part 1 for Infinite Learning, utilizing HTML and CSS, which includes three tables: a student report table, a grade tracking table, and a course schedule.
+This repository contains Part 1 of a Web-Based HTML Assignment for Infinite Learning, featuring HTML and CSS. The project includes three tables: a student report table, a grade tracking table, and a course schedule
